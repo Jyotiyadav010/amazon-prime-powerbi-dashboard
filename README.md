@@ -178,4 +178,7 @@ This dashboard successfully transforms raw Amazon Prime content data into action
 ### 👩‍💻 Developed By
 **Jyoti Yadav**
 **Tools Used:** Power BI | Power Query | DAX | Data Visualization | Data Analytics
+
+
+##Dashboard Preview
 https://github.com/Jyotiyadav010/amazon-prime-powerbi-dashboard/blob/main/amazon-prime-powerbi-dashboard.png
